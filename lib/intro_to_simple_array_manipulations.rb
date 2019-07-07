@@ -25,4 +25,8 @@ end
 def using_concat(arone, artwo)
   arone.concat(artwo)
 end
+
+def using_insert(array, element)
+  array.insert[4](element)
+end
   
